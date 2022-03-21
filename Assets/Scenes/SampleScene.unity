@@ -344,6 +344,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
 --- !u!223 &193315031
 Canvas:
   m_ObjectHideFlags: 0
@@ -682,6 +683,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Navigation:
     m_Mode: 3
+    m_WrapAround: 0
     m_SelectOnUp: {fileID: 0}
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
@@ -1126,6 +1128,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Navigation:
     m_Mode: 3
+    m_WrapAround: 0
     m_SelectOnUp: {fileID: 0}
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
@@ -1366,7 +1369,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 6.680575
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -2461,6 +2464,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Navigation:
     m_Mode: 3
+    m_WrapAround: 0
     m_SelectOnUp: {fileID: 0}
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
@@ -2657,12 +2661,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1402361541}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a6d2f15e5e50fd04ab0ad18724ae9b7a, type: 3}
+  m_Script: {fileID: 11500000, guid: 52626b9eccee44ee88f185bec84cbbe3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  shareButton: {fileID: 1402361543}
-  packageName: com.whatsapp
-  gm: {fileID: 954113475}
 --- !u!1 &1474720590
 GameObject:
   m_ObjectHideFlags: 0
