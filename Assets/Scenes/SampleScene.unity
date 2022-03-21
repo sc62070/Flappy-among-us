@@ -2980,11 +2980,11 @@ GameObject:
   - component: {fileID: 1870717165}
   - component: {fileID: 1870717164}
   - component: {fileID: 1870717163}
-  - component: {fileID: 1870717162}
   - component: {fileID: 1870717167}
   - component: {fileID: 1870717170}
   - component: {fileID: 1870717169}
   - component: {fileID: 1870717168}
+  - component: {fileID: 1870717162}
   m_Layer: 0
   m_Name: Bird_yellow
   m_TagString: Player
@@ -3002,7 +3002,7 @@ Animator:
   m_GameObject: {fileID: 1870717161}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 6ffa38e6755f5cf4d852e6bd420b38cc, type: 2}
+  m_Controller: {fileID: 9100000, guid: eb84bd589f2c045fbb68948884901ffb, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -3088,12 +3088,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 67fbc3b139aa49748817a1f33aa98753, type: 3}
+  m_Sprite: {fileID: 8166710274925509176, guid: c46d295a6fc7441ee8d62260a2c61f31, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 1.52, y: 2.04}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
