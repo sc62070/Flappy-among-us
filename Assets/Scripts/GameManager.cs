@@ -107,7 +107,7 @@ public class GameManager : MonoBehaviour
 
     void CheckMedal()
     {
-        if (score >= 100)
+        if (score >= 50)
         {
             medalImg.gameObject.SetActive(true);
         }
